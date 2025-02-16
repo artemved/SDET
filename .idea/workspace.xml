@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deac7c19-eaf7-4fa8-9e9b-434d6f3a7f25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SDET.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automation_form/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automation_form/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automation_form/pages/form_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automation_form/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automation_form/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automation_form/tests/test_form.py" afterDir="false" />
-    </list>
+    <list default="true" id="deac7c19-eaf7-4fa8-9e9b-434d6f3a7f25" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +35,7 @@
     "Python tests.Python tests in test_form.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
